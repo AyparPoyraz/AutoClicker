@@ -12,7 +12,7 @@ clicking = False
 
 cps_limit = 14
 
-KeyAsk = str(input("Your Macro Key: "))
+KeyAsk = str(input("Your Key: "))
 MacroKey = KeyCode(char=KeyAsk)
 print("Started")
 
